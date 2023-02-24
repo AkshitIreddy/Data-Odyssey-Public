@@ -1,5 +1,4 @@
 # Data-Odyssey
-![1_Rs4bdi2aQ-LHIftIUs25Pw](https://user-images.githubusercontent.com/90443032/221189685-173eea53-9676-4ab2-9f16-52060b2cdfa4.jpeg | width=100)
 
 Data Odyssey is a tool that transforms your boring excel sheets into captivating comics. It is designed to make it easy for users to communicate data insights in a visually appealing way.
 
