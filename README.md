@@ -6,3 +6,6 @@ Data Odyssey is a tool that transforms your boring excel sheets into captivating
 With a single click of a button, Data Odyssey generates comics from your tabular data in seconds. The tool not only generates comics, but it also provides a range of other features, including the ability to ask questions and receive answers with visualization, chat with AI assistants for personalized advice, perform automated analysis on areas that matter to you, and create custom characters using stable diffusion.
 
 Data Odyssey is perfect for both novice and seasoned data scientists, and its auto-mode feature uses the Gramener’s comicgen API for characters, while its custom-mode uses stable diffusion for the creation of unique characters with different emotions and uses a language model to create interesting conversations from your insights.
+
+Video Demo:  
+https://www.youtube.com/watch?v=aGvGliwTyzg
