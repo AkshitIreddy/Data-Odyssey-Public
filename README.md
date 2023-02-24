@@ -8,3 +8,7 @@ With a single click of a button, Data Odyssey generates comics from your tabular
 Data Odyssey is perfect for both novice and seasoned data scientists, and its auto-mode feature uses the Gramener’s comicgen API for characters, while its custom-mode uses stable diffusion for the creation of unique characters with different emotions and uses a language model to create interesting conversations from your insights.
 
 Video Demo:  
+
+
+https://user-images.githubusercontent.com/90443032/221193603-db0bba64-1fbb-46e0-af7a-853f2af65ace.mp4
+
